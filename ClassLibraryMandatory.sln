@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryMandatory", "ClassLibraryMandatory\ClassLibraryMandatory.csproj", "{B1EDDEBA-65EF-4FC3-B6E7-11B9023A214F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraryMandatory", "ClassLibraryMandatory\ClassLibraryMandatory.csproj", "{B1EDDEBA-65EF-4FC3-B6E7-11B9023A214F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWeightConvert", "UnitTestWeightConvert\UnitTestWeightConvert.csproj", "{36C96599-592F-4001-B030-CBC4ACA16E22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B1EDDEBA-65EF-4FC3-B6E7-11B9023A214F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1EDDEBA-65EF-4FC3-B6E7-11B9023A214F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1EDDEBA-65EF-4FC3-B6E7-11B9023A214F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C96599-592F-4001-B030-CBC4ACA16E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C96599-592F-4001-B030-CBC4ACA16E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C96599-592F-4001-B030-CBC4ACA16E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C96599-592F-4001-B030-CBC4ACA16E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
